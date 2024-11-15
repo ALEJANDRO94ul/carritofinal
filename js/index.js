@@ -1,8 +1,9 @@
 // Array de productos almacenado en localStorage 
 const productos = [
-    {
+    
+{
         nombre: "Camisa Casual Hombre",
-        imagen: "./frontend/imagenes/2.png",
+        imagen: "./frontend/imagenes/camihombre.jpg",
         precio: 75000,
         descripcion: "Camisa casual de algodón, ideal para el uso diario.",
         categoria: "Ropa",
@@ -10,7 +11,7 @@ const productos = [
     },
     {
         nombre: "Jeans Skinny Mujer",
-        imagen: "./frontend/imagenes/jeans_mujer.jpg",
+        imagen: "./frontend/imagenes/jeanmujer.jpg",
         precio: 120000,
         descripcion: "Jeans de corte skinny con alto confort y estilo.",
         categoria: "Ropa",
@@ -18,7 +19,7 @@ const productos = [
     },
     {
         nombre: "Tenis Running Hombre",
-        imagen: "./frontend/imagenes/tenis_running.jpg",
+        imagen: "./frontend/imagenes/tenishombre.jpg",
         precio: 210000,
         descripcion: "Tenis livianos y cómodos para correr largas distancias.",
         categoria: "Calzado",
@@ -26,7 +27,7 @@ const productos = [
     },
     {
         nombre: "Chaqueta de Cuero",
-        imagen: "./frontend/imagenes/chaqueta_cuero.jpg",
+        imagen: "./frontend/imagenes/chaque.jpg",
         precio: 180000,
         descripcion: "Chaqueta de cuero sintético, perfecta para ocasiones casuales.",
         categoria: "Ropa",
@@ -34,19 +35,51 @@ const productos = [
     },
     {
         nombre: "Reloj Deportivo",
-        imagen: "./frontend/imagenes/reloj_deportivo.jpg",
+        imagen: "./frontend/imagenes/reloj.jpg",
         precio: 95000,
         descripcion: "Reloj resistente al agua con múltiples funciones deportivas.",
         categoria: "Accesorios",
         marca: "Casio"
     },
     {
-        nombre: "Reloj Deportivo",
-        imagen: "./frontend/imagenes/1.jpg",
-        precio: 95000,
-        descripcion: "Reloj resistente al agua con múltiples funciones deportivas.",
+        nombre: "Camiseta Seleccion Colombia",
+        imagen: "./frontend/imagenes/sele.jpg",
+        precio: 300000,
+        descripcion: "Camiseta oficial seleccion colombia.",
+        categoria: "Ropa",
+        marca: "adidas"
+    },
+    {
+        nombre: "Gorra",
+        imagen: "./frontend/imagenes/gorra.jpg",
+        precio: 80000,
+        descripcion: "Gorra Vans.",
+        categoria: "Ropa",
+        marca: "Vans"
+    },
+    {
+        nombre: "Mocasines mujer",
+        imagen: "./frontend/imagenes/moca.jpg",
+        precio: 300000,
+        descripcion: "Mocasines elegantes Dama",
+        categoria: "Ropa",
+        marca: "Fiori"
+    },
+    {
+        nombre: "Pantaloneta hombre",
+        imagen: "./frontend/imagenes/pant.jpg",
+        precio: 72000,
+        descripcion: "Pantaloneta de verano.",
+        categoria: "Ropa",
+        marca: "totto"
+    },
+    {
+        nombre: "Gafas de sol",
+        imagen: "./frontend/imagenes/gaf.jpg",
+        precio: 210000,
+        descripcion: "Gafas de sol unisex.",
         categoria: "Accesorios",
-        marca: "Casio"
+        marca: "ray ban"
     }
     
 ];
