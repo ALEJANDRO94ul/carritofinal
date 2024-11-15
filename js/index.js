@@ -5,10 +5,10 @@ const productos = [
         nombre: "Camisa Casual Hombre",
         imagen: "./frontend/imagenes/camihombre.jpg",
         precio: 75000,
-        descripcion: ""Eleva tu estilo con esta camisa casual para hombre. 
+        descripcion: "Eleva tu estilo con esta camisa casual para hombre. 
         Su diseño moderno y cómodo es perfecto para cualquier ocasión, 
         desde una reunión informal hasta una salida nocturna. Fabricada con materiales de alta calidad,
-        es fresca, resistente y fácil de combinar. ¡Luce relajado y con clase en cada momento!"",
+        es fresca, resistente y fácil de combinar. ¡Luce relajado y con clase en cada momento!",
         categoria: "Ropa",
         marca: "Koaj"
     },
