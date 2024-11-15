@@ -2,7 +2,7 @@
 const productos = [
     {
         nombre: "Camisa Casual Hombre",
-        imagen: "./frontend/imagenes/1.jpg",
+        imagen: "./frontend/imagenes/2.jpg",
         precio: 75000,
         descripcion: "Camisa casual de algodón, ideal para el uso diario.",
         categoria: "Ropa",
