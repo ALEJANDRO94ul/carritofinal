@@ -42,7 +42,7 @@ const productos = [
     },
     {
         nombre: "Reloj Deportivo",
-        imagen: "./frontend/imagenes/2.png",
+        imagen: "./frontend/imagenes/1.jpg",
         precio: 95000,
         descripcion: "Reloj resistente al agua con múltiples funciones deportivas.",
         categoria: "Accesorios",
