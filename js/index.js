@@ -5,7 +5,10 @@ const productos = [
         nombre: "Camisa Casual Hombre",
         imagen: "./frontend/imagenes/camihombre.jpg",
         precio: 75000,
-        descripcion: "Camisa casual de algodón, ideal para el uso diario.",
+        descripcion: ""Eleva tu estilo con esta camisa casual para hombre. 
+        Su diseño moderno y cómodo es perfecto para cualquier ocasión, 
+        desde una reunión informal hasta una salida nocturna. Fabricada con materiales de alta calidad,
+        es fresca, resistente y fácil de combinar. ¡Luce relajado y con clase en cada momento!"",
         categoria: "Ropa",
         marca: "Koaj"
     },
@@ -13,7 +16,9 @@ const productos = [
         nombre: "Jeans Skinny Mujer",
         imagen: "./frontend/imagenes/jeanmujer.jpg",
         precio: 120000,
-        descripcion: "Jeans de corte skinny con alto confort y estilo.",
+        descripcion: "Resalta tu figura con estos jeans skinny para mujer. Con un ajuste perfecto que se adapta a tus curvas, estos jeans combinan estilo 
+        y confort en una sola prenda.
+        Ideales para un look casual o una salida especial, están diseñados para brindar comodidad y versatilidad sin renunciar a la moda.",
         categoria: "Ropa",
         marca: "Studio F"
     },
@@ -21,7 +26,9 @@ const productos = [
         nombre: "Tenis Running Hombre",
         imagen: "./frontend/imagenes/tenishombre.jpg",
         precio: 210000,
-        descripcion: "Tenis livianos y cómodos para correr largas distancias.",
+        descripcion: "Optimiza tu rendimiento con nuestros tenis de running para hombre. Ligeros, transpirables y con tecnología de amortiguación avanzada, 
+        están hechos para acompañarte en cada kilómetro.
+        Ya sea para un entrenamiento intenso o una carrera de larga distancia, estos tenis te ofrecerán el soporte y la comodidad que necesitas.",
         categoria: "Calzado",
         marca: "Adidas"
     },
@@ -29,7 +36,8 @@ const productos = [
         nombre: "Chaqueta de Cuero",
         imagen: "./frontend/imagenes/chaque.jpg",
         precio: 180000,
-        descripcion: "Chaqueta de cuero sintético, perfecta para ocasiones casuales.",
+        descripcion: "Esta chaqueta de cuero es la prenda esencial para un look audaz y sofisticado. Fabricada con materiales de primera calidad, combina estilo y durabilidad.
+        Ideal para el día o la noche, aporta un toque de elegancia y rebeldía a tu atuendo. ¡Haz una declaración de estilo con esta pieza clásica!",
         categoria: "Ropa",
         marca: "Gef"
     },
@@ -37,7 +45,9 @@ const productos = [
         nombre: "Reloj Deportivo",
         imagen: "./frontend/imagenes/reloj.jpg",
         precio: 95000,
-        descripcion: "Reloj resistente al agua con múltiples funciones deportivas.",
+        descripcion: "Mantén el control de tu tiempo y tus actividades con este reloj deportivo. Resistente al agua y con funciones avanzadas, 
+        es el compañero ideal para tus entrenamientos y aventuras.
+        Su diseño moderno y robusto se adapta a cualquier estilo y ocasión. ¡Lleva tu rendimiento al siguiente nivel!",
         categoria: "Accesorios",
         marca: "Casio"
     },
@@ -45,7 +55,8 @@ const productos = [
         nombre: "Camiseta Seleccion Colombia",
         imagen: "./frontend/imagenes/sele.jpg",
         precio: 300000,
-        descripcion: "Camiseta oficial seleccion colombia.",
+        descripcion: "Demuestra tu pasión por el fútbol y por la Selección Colombia con esta camiseta oficial. Diseñada con materiales de alta calidad,
+        te garantiza comodidad y frescura en todo momento. Ideal para apoyar a tu equipo en el estadio o desde casa, ¡llévala con orgullo y estilo!",
         categoria: "Ropa",
         marca: "adidas"
     },
@@ -53,7 +64,8 @@ const productos = [
         nombre: "Gorra",
         imagen: "./frontend/imagenes/gorra.jpg",
         precio: 80000,
-        descripcion: "Gorra Vans.",
+        descripcion: "Completa tu look urbano con la clásica gorra Vans. Con un diseño fresco y emblemático, esta gorra es perfecta para cualquier outfit casual.
+        Ajustable y hecha con materiales duraderos, es el accesorio ideal para darle un toque relajado y a la moda a tu estilo diario",
         categoria: "Ropa",
         marca: "Vans"
     },
@@ -61,7 +73,9 @@ const productos = [
         nombre: "Mocasines mujer",
         imagen: "./frontend/imagenes/moca.jpg",
         precio: 300000,
-        descripcion: "Mocasines elegantes Dama",
+        descripcion: "Estos mocasines elegantes para dama combinan comodidad y sofisticación. Perfectos para el trabajo o una salida especial, 
+        están hechos con materiales suaves y duraderos que te aseguran comodidad en cada paso.
+        Añade un toque de clase a tu vestimenta con estos mocasines versátiles y de gran estilo.",
         categoria: "Ropa",
         marca: "Fiori"
     },
@@ -69,7 +83,8 @@ const productos = [
         nombre: "Pantaloneta hombre",
         imagen: "./frontend/imagenes/pant.jpg",
         precio: 72000,
-        descripcion: "Pantaloneta de verano.",
+        descripcion: "Prepárate para la aventura con esta pantaloneta de hombre. Ligera y resistente, es ideal para actividades al aire libre,
+        deportes o simplemente para relajarte. Con un ajuste cómodo y materiales transpirables, te mantendrá fresco y con estilo en cualquier momento.",
         categoria: "Ropa",
         marca: "totto"
     },
@@ -77,7 +92,8 @@ const productos = [
         nombre: "Gafas de sol",
         imagen: "./frontend/imagenes/gaf.jpg",
         precio: 210000,
-        descripcion: "Gafas de sol unisex.",
+        descripcion: "Protege tus ojos y eleva tu estilo con estas gafas de sol. Con un diseño moderno y elegante, ofrecen la máxima protección UV para cuidar tu vista.
+        Ideales para cualquier ocasión, desde la playa hasta la ciudad, son el accesorio perfecto para un look sofisticado y cool.",
         categoria: "Accesorios",
         marca: "ray ban"
     }
